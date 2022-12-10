@@ -25,4 +25,4 @@ This project is composed of 2 sub tasks.
 
 - download pre-trained gen_model: [gen_model](https://drive.google.com/file/d/1FWMH9RBDZgmnLfqDoYeyAAi-XaNTKkLw/view?usp=share_link)
 
-- installed conda environment yml: [VTON env yml]()
+- installed conda environment yml: [VTON env yml](https://github.com/KAIST16-Ryu/CS492_Fall_customVTON/blob/master/PF-AFN/VTON.yml)
