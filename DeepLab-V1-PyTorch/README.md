@@ -1,12 +1,7 @@
-# DeepLab-V1-PyTorch
-
-Code for ICLR 2015 deeplab-v1 paper ["Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs"](http://arxiv.org/pdf/1412.7062.pdf), backbone is deeplab-largeFOV.
-
 ## Config
 - Check seg.yml for conda environment.
 
 
-```
 ## Usage
 ### Train
 ```
