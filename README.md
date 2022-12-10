@@ -13,7 +13,7 @@ This project is composed of 2 sub tasks.
 
 - official gitHub: [DeepLab-V1 PyTorch](https://github.com/wangleihitcs/DeepLab-V1-PyTorch)
 
-- installed conda environment yml: [segmentation env yml]()
+- installed conda environment yml: [segmentation env yml](https://github.com/KAIST16-Ryu/CS492_Fall_customVTON/blob/master/DeepLab-V1-PyTorch/seg.yml)
 
 ## Virtual Try-On segmented image and produced virtually tried-on image.
 
