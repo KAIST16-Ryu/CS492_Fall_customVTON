@@ -5,7 +5,7 @@ This is a result of Team15's CS492 Final project custom VTON.
 
 <br/>
 
-This project is composed of 2 sub tasks.
+This project is composed of 2 sub tasks. And we left our results in ```results.zip```
 
 1. People & Clothes Segmentation.
 
