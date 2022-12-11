@@ -21,6 +21,10 @@ This project is composed of 2 sub tasks. And we left our results in ```results.z
 
 - installed conda environment yml: [segmentation env yml](https://github.com/KAIST16-Ryu/CS492_Fall_customVTON/blob/master/DeepLab-V1-PyTorch/seg.yml)
 
+- Here below the execution guide for Segmentation
+
+  1. python main.py --type=test
+  2. result segmentation images will be saved in './exp/labels/clothes/crop/'
 <br/>
 
 ## Virtual Try-On segmented image and produced virtually tried-on image.
@@ -35,7 +39,7 @@ This project is composed of 2 sub tasks. And we left our results in ```results.z
 
 - installed conda environment yml: [VTON env yml](https://github.com/KAIST16-Ryu/CS492_Fall_customVTON/blob/master/PF-AFN/VTON.yml)
 
-- Here below the execution guide vfor VTON
+- Here below the execution guide for VTON
 
   1. cd PF-AFN_test
   2. download "pre-trained warp model" and "pre-trained gen model" in ```/PF-AFN/PF-AFN_test/checkpoints/``` from the above link.
