@@ -23,8 +23,8 @@ This project is composed of 2 sub tasks. And we left our results in ```results.z
 
 - Here below the execution guide for Segmentation
 
-  1. python main.py --type=test
-  2. result segmentation images will be saved in './exp/labels/clothes/crop/'
+  1. ```python main.py --type=test```
+  2. segmentation image results will be saved in ```'./exp/labels/clothes/crop/'```
 <br/>
 
 ## Virtual Try-On segmented image and produced virtually tried-on image.
