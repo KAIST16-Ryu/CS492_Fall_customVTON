@@ -26,3 +26,12 @@ This project is composed of 2 sub tasks.
 - download pre-trained gen_model: [gen_model](https://drive.google.com/file/d/1FWMH9RBDZgmnLfqDoYeyAAi-XaNTKkLw/view?usp=share_link)
 
 - installed conda environment yml: [VTON env yml](https://github.com/KAIST16-Ryu/CS492_Fall_customVTON/blob/master/PF-AFN/VTON.yml)
+
+- Here below the execution guide vfor VTON
+
+  1. cd PF-AFN_test
+  2. download "pre-trained warp model" and "pre-trained gen model" in "/PF-AFN/PF-AFN_test/checkpoints/" from the above link.
+  3. Prepare a dataset for each "Clothes Images", "Clothes Segmentation Map" and "Person Images" in each "/PF-AFN/PF-AFN_test/dataset/test-clothes", "/PF-AFN/PF-AFN_test/dataset/test-edge" and "/PF-AFN/PF-AFN_test/dataset/test_img".
+  4. We create "create_demo_text.py" in "/PF-AFN/PF-AFN_test/dataset/" and it will produce "demo.txt", which will be used for inference.
+  5. Place "demo.txt" in "/PF-AFN/PF-AFN_test/"
+  6. Execute $ test.sh with individual arguments.
