@@ -1,11 +1,17 @@
 # CS492_Fall_customVTON
 This is a result of Team15's CS492 Final project custom VTON.
 
+![image](https://user-images.githubusercontent.com/71695489/206888247-ae48f9ef-2794-4f85-b37e-0748e5bafa28.png)
+
+<br/>
+
 This project is composed of 2 sub tasks.
 
 1. People & Clothes Segmentation.
 
 2. Virtual Try-On segmented image and produced virtually tried-on image.
+
+<br/>
 
 ## People & Clothes Segmentation.
 
@@ -14,6 +20,8 @@ This project is composed of 2 sub tasks.
 - official gitHub: [DeepLab-V1 PyTorch](https://github.com/wangleihitcs/DeepLab-V1-PyTorch)
 
 - installed conda environment yml: [segmentation env yml](https://github.com/KAIST16-Ryu/CS492_Fall_customVTON/blob/master/DeepLab-V1-PyTorch/seg.yml)
+
+<br/>
 
 ## Virtual Try-On segmented image and produced virtually tried-on image.
 
